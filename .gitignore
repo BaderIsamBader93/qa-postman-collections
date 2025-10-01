@@ -1,0 +1,4 @@
+reports/
+*.local.json
+.env
+.DS_Store
